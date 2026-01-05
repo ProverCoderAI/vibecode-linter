@@ -363,16 +363,3 @@ describe("Message invariants", () => {
 Каждый эффект — это контролируемое взаимодействие с реальным миром.
 
 ПРИНЦИП: Сначала формализуем, потом программируем.
-
----
-
-Issue to solve: https://github.com/ProverCoderAI/vibecode-linter/issues/1
-Your prepared branch: issue-1-d9016cbf46db
-Your prepared working directory: /tmp/gh-issue-solver-1767608803228
-Your forked repository: konard/ProverCoderAI-vibecode-linter
-Original repository (upstream): ProverCoderAI/vibecode-linter
-
-Proceed.
-
-
-Run timestamp: 2026-01-05T10:26:53.127Z
